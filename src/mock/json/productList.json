@@ -1,0 +1,183 @@
+{
+  "code": "200",
+  "data": {
+    "list": [
+      {
+        "id": "p1",
+        "title": "罗马假期-水蓝版 3390.152.20.16.25 机械男表",
+        "price": 13200,
+        "description": "-Emotion情感系列",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/bbf.jpg",
+          "/static/img/bd7.jpg",
+          "/static/img/88.jpg",
+          "/static/img/89.jpg",
+          "/static/img/90.jpg"
+        ]
+      },
+      {
+        "id": "p2",
+        "title": "纯正瑞士品牌 迪沃斯DAVOSA-Diving 潜水系列  ",
+        "price": 7200,
+        "description": "钢 绿色 不锈钢",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/23b.jpg",
+          "/static/img/23ba.jpg",
+          "/static/img/8c8.jpg",
+          "/static/img/9dd.jpg",
+          "/static/img/22e.jpg"
+        ]
+      },
+      {
+        "id": "p3",
+        "title": "西铁城Citizen-光动能男表系列 BX1001-89L 万年历男表",
+        "price": 4600,
+        "description": "钢 绿色 不锈钢",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/8a0.jpg",
+          "/static/img/282.jpg",
+          "/static/img/3d32.png",
+          "/static/img/6e71.png",
+          "/static/img/6748.png"
+        ]
+      },
+      {
+        "id": "p4",
+        "title": "东方星（OrientStar）名仕系列 RE-AV0003L00B 自动机械男表",
+        "price": 4600,
+        "description": "钢 绿色 不锈钢",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/c580c.jpg",
+          "/static/img/c0bb.jpg",
+          "/static/img/a51c.png",
+          "/static/img/06b2.png",
+          "/static/img/1b15.png"
+        ]
+      },
+      {
+        "id": "p5",
+        "title": "Emotion情感系列 日夜无间 3390.302.20.38.25 机械男表",
+        "price": 4600,
+        "description": "钢 绿色 不锈钢",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/2405.jpg",
+          "/static/img/1152.jpg",
+          "/static/img/2fa5.jpg",
+          "/static/img/6054.jpg",
+          "/static/img/5824.jpg"
+        ]
+      },
+       {
+        "id": "p6",
+        "title": "宇舶HUBLOT BIGBANG系列 406.OM.0180.RX 男士自动机械表",
+        "price": 4600,
+        "description": "橡胶 镂空",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/a446.jpg",
+          "/static/img/2016.jpg",
+          "/static/img/20160.png",
+          "/static/img/201606.png",
+          "/static/img/201604.png"
+        ]
+      },
+      {
+        "id": "p7",
+        "title": "浪琴longines-名匠系列 L2.628.4.78.3 机械男表",
+        "price": 4600,
+        "description": "橡胶 镂空",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/4f3a.jpg",
+          "/static/img/201506.jpg",
+           "/static/img/201.png",
+          "/static/img/20150.png",
+          "/static/img/201512.png"
+         
+        ]
+      },
+      {
+        "id": "p8",
+        "title": "浪琴longines-名匠系列 L2.628.4.78.3 机械男表",
+        "price": 4600,
+        "description": "橡胶 镂空",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/8151.jpg",
+          "/static/img/6161.jpg",
+           "/static/img/3053.png",
+          "/static/img/925b.png",
+          "/static/img/228d.png",
+           "/static/img/cd89.png",
+           "/static/img/d4d.png"
+         
+        ]
+      },
+      {
+        "id": "p9",
+        "title": "浪琴longines-名匠系列 L2.628.4.78.3 机械男表",
+        "price": 4600,
+        "description": "橡胶 镂空",
+        "express": "免运费",
+        "remain": 19,
+        "join": "加入购物车",
+        "Customer": "客服",
+        "Shopping": "购物车",
+        "Immediate": "立即购买",
+        "thumb": [
+          "/static/img/3dad.jpg",
+          "/static/img/20170.jpg",
+           "/static/img/2017.png",
+          "/static/img/217.png",
+          "/static/img/4805.png",   
+          "/static/img/ IW377714.png"      
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1687 @@
+{
+    "rementuijian": {
+        "msg2": [{
+                "url": "/static/images/remen1.jpg",
+                "p": "空调",
+                "id": "bijiben"
+            },
+            {
+                "url": "/static/images/remen2.jpg",
+                "p": "洗衣机",
+                "id": "littlebiu"
+            },
+            {
+                "url": "/static/images/remen3.jpg",
+                "p": "电视",
+                "id": "machine"
+            },
+            {
+                "url": "/static/images/remen4.jpg",
+                "p": "小biu",
+                "id": "xiaobiu"
+            },
+            {
+                "url": "/static/images/remen5.png",
+                "p": "手机",
+                "id": "phone"
+            },
+            {
+                "url": "/static/images/remen6.png",
+                "p": "热水器",
+                "id": "reshui"
+            },
+            {
+                "url": "/static/images/remen7.jpg",
+                "p": "笔记本",
+                "id": "bijiben"
+            },
+            {
+                "url": "/static/images/remen8.jpg",
+                "p": "破壁机",
+                "id": "littlebiu"
+            },
+            {
+                "url": "/static/images/remen9.jpg",
+                "p": "生活家电",
+                "id": "xiaobiu"
+            },
+            {
+                "url": "/static/images/remen10.png",
+                "p": "手表",
+                "id": "reshui"
+            },
+            {
+                "url": "/static/images/remen10.jpg",
+                "p": "羽绒服",
+                "id": "phone"
+            },
+            {
+                "url": "/static/images/remen11.jpg",
+                "p": "奶粉",
+                "id": "machine"
+            },
+            {
+                "url": "/static/images/remen12.png",
+                "p": "白酒",
+                "id": "xiaobiu"
+            },
+            {
+                "url": "/static/images/remen14.jpg",
+                "p": "运动卫衣",
+                "id": "reshui"
+            },
+            {
+                "url": "/static/images/remen13.png",
+                "p": "大闸蟹",
+                "id": "phone"
+            }
+        ]
+    },
+    "shoujishuma": {
+        "msg3": [{
+                "url": "/static/images/shoujishuma01.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma02.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma03.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma04.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma05.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma06.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma07.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma08.png"
+            },
+            {
+                "url": "/static/images/shoujishuma09.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma10.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma11.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma12.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma13.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma14.jpg"
+            },
+            {
+                "url": "/static/images/shoujishuma15.jpg"
+            }
+        ],
+        "msg4": [{
+                "url": "/static/images/shoujishuma16.jpg",
+                "p": "全部手机"
+            },
+            {
+                "url": "/static/images/shoujishuma17.jpg",
+                "p": "5G手机 "
+            },
+            {
+                "url": "/static/images/shoujishuma18.jpg ",
+                "p": "全面屏手机"
+            },
+            {
+                "url": "/static/images/shoujishuma19.jpg",
+                "p": "游戏手机"
+            },
+            {
+                "url": "/static/images/shoujishuma20.jpg",
+                "p": "老人机"
+            },
+            {
+                "url": "/static/images/shoujishuma21.jpg",
+                "p": "拍照手机"
+            },
+            {
+                "url": "/static/images/shoujishuma22.jpg",
+                "p": "指纹手机"
+            },
+            {
+                "url": "/static/images/shoujishuma23.jpg",
+                "p": "面部识别手机"
+            },
+            {
+                "url": "/static/images/shoujishuma24.jpg",
+                "p": "女性手机"
+            },
+            {
+                "url": "/static/images/shoujishuma25.jpg",
+                "p": "长续航手机"
+            },
+            {
+                "url": "/static/images/shoujishuma26.png",
+                "p": "手机维修"
+            },
+            {
+                "url": "/static/images/shoujishuma28.jpg",
+                "p": "以旧换新"
+            },
+            {
+                "url": "/static/images/shoujishuma29.jpg",
+                "p": "二手优品"
+            },
+            {
+                "url": "/static/images/shoujishuma30.jpg",
+                "p": "分期手机"
+            },
+            {
+                "url": "/static/images/shoujishuma31.png",
+                "p": "精选好店"
+            }
+        ],
+        "msg": [{
+                "url": "/static/images/shoujishuma32.jpg",
+                "p": "天宁网厅"
+            },
+            {
+                "url": "/static/images/shoujishuma33.jpg",
+                "p": "手机卡 "
+            },
+            {
+                "url": "/static/images/shoujishuma34.jpg",
+                "p": "宽带"
+            },
+            {
+                "url": "/static/images/shoujishuma35.jpg",
+                "p": "抢靓号"
+            },
+            {
+                "url": "/static/images/shoujishuma36.jpg",
+                "p": "话费充值"
+            },
+            {
+                "url": "/static/images/shoujishuma37.jpg",
+                "p": "流量订购"
+            }
+        ]
+    },
+    "dajiadian": {
+        "msg5": [{
+                "url": "/static/images/dajiadian01.jpg",
+                "p": "空调挂机"
+            },
+            {
+                "url": "/static/images/dajiadian02.png",
+                "p": "空调柜机 "
+            },
+            {
+                "url": "/static/images/dajiadian03.png ",
+                "p": "移动空调"
+            },
+            {
+                "url": "/static/images/dajiadian04.jpg",
+                "p": "一级能效"
+            },
+            {
+                "url": "/static/images/dajiadian05.jpg",
+                "p": "变频空调"
+            },
+            {
+                "url": "/static/images/dajiadian06.png",
+                "p": "轻奢空调"
+            },
+            {
+                "url": "/static/images/dajiadian07.png",
+                "p": "0元安装"
+            },
+            {
+                "url": "/static/images/dajiadian08.jpg",
+                "p": "空调免息"
+            },
+            {
+                "url": "/static/images/dajiadian09.jpg",
+                "p": "美的"
+            },
+            {
+                "url": "/static/images/dajiadian10.jpg",
+                "p": "格力"
+            },
+            {
+                "url": "/static/images/dajiadian11.jpg",
+                "p": "华凌"
+            },
+            {
+                "url": "/static/images/dajiadian12.jpg",
+                "p": "奥克斯"
+            },
+            {
+                "url": "/static/images/dajiadian13.png",
+                "p": "海尔"
+            },
+            {
+                "url": "/static/images/dajiadian14.jpg",
+                "p": "小biu"
+            },
+            {
+                "url": "/static/images/dajiadian15.png",
+                "p": "三菱重工"
+            },
+            {
+                "url": "/static/images/dajiadian16.png",
+                "p": "海信"
+            },
+            {
+                "url": "/static/images/dajiadian17.png",
+                "p": "科龙"
+            },
+            {
+                "url": "/static/images/dajiadian18.png",
+                "p": "TCL"
+            },
+            {
+                "url": "/static/images/dajiadian19.png",
+                "p": "空调安装"
+            },
+            {
+                "url": "/static/images/dajiadian20.png",
+                "p": "空调维修"
+            },
+            {
+                "url": "/static/images/dajiadian21.png",
+                "p": "精选好店"
+            }
+        ],
+        "msg6": [{
+                "url": "/static/images/dianshiji01.jpg",
+                "p": "电视"
+            },
+            {
+                "url": "/static/images/dianshiji02.jpg",
+                "p": "智慧屏 "
+            },
+            {
+                "url": "/static/images/dianshiji03.jpg",
+                "p": "65吋电视"
+            },
+            {
+                "url": "/static/images/dianshiji04.jpg",
+                "p": "55吋电视"
+            },
+            {
+                "url": "/static/images/dianshiji05.jpg",
+                "p": "32吋电视"
+            },
+            {
+                "url": "/static/images/dianshiji06.png",
+                "p": "4K超高清"
+            },
+            {
+                "url": "/static/images/dianshiji07.jpg",
+                "p": "8K超高清"
+            },
+            {
+                "url": "/static/images/dianshiji08.jpg",
+                "p": "华为"
+            },
+            {
+                "url": "/static/images/dianshiji09.jpg",
+                "p": "荣耀"
+            },
+            {
+                "url": "/static/images/dianshiji10.png",
+                "p": "格力"
+            },
+            {
+                "url": "/static/images/dianshiji11.jpg",
+                "p": "创维"
+            },
+            {
+                "url": "/static/images/dianshiji12.png",
+                "p": "小米"
+            },
+            {
+                "url": "/static/images/dianshiji13.png",
+                "p": "索尼"
+            },
+            {
+                "url": "/static/images/dianshiji14.png",
+                "p": "海信"
+            },
+            {
+                "url": "/static/images/dianshiji15.png",
+                "p": "康佳"
+            },
+            {
+                "url": "/static/images/dianshiji16.png",
+                "p": "海信"
+            },
+            {
+                "url": "/static/images/dianshiji17.png",
+                "p": "科龙"
+            },
+            {
+                "url": "/static/images/dianshiji18.png",
+                "p": "TCL"
+            },
+            {
+                "url": "/static/images/dianshiji19.png",
+                "p": "三星"
+            },
+            {
+                "url": "/static/images/dianshiji20.png",
+                "p": "夏普"
+            },
+            {
+                "url": "/static/images/dianshiji21.png",
+                "p": "先锋"
+            },
+            {
+                "url": "/static/images/dianshiji22.jpg",
+                "p": "彩电免息会场"
+            },
+            {
+                "url": "/static/images/dianshiji23.png",
+                "p": "精选好店"
+            }
+        ],
+        "msg7": [{
+                "url": "/static/images/xiyiji01.jpg",
+                "p": "洗干一体机"
+            },
+            {
+                "url": "/static/images/xiyiji02.jpg",
+                "p": "滚筒洗衣机 "
+            },
+            {
+                "url": "/static/images/xiyiji03.jpg",
+                "p": "波轮洗衣机"
+            },
+            {
+                "url": "/static/images/xiyiji04.jpg",
+                "p": "大容量洗衣机"
+            },
+            {
+                "url": "/static/images/xiyiji05.jpg",
+                "p": "迷你洗衣机"
+            },
+            {
+                "url": "/static/images/xiyiji06.jpg",
+                "p": "双缸洗衣机"
+            },
+            {
+                "url": "/static/images/xiyiji07.png",
+                "p": "烘干机"
+            },
+            {
+                "url": "/static/images/xiyiji08.jpg",
+                "p": "洗衣机服务"
+            },
+            {
+                "url": "/static/images/xiyiji09.jpg",
+                "p": "小biu洗衣机"
+            },
+            {
+                "url": "/static/images/xiyiji10.jpg",
+                "p": "格力"
+            },
+
+            {
+                "url": "/static/images/xiyiji11.jpg",
+                "p": "西门子"
+            },
+            {
+                "url": "/static/images/xiyiji12.jpg",
+                "p": "海尔"
+            },
+            {
+                "url": "/static/images/xiyiji13.jpg",
+                "p": "小天鹅"
+            },
+            {
+                "url": "/static/images/xiyiji14.png",
+                "p": "美的"
+            },
+            {
+                "url": "/static/images/xiyiji15.png",
+                "p": "松下"
+            },
+            {
+                "url": "/static/images/xiyiji16.png",
+                "p": "冰洗配件"
+            },
+            {
+                "url": "/static/images/xiyiji17.png",
+                "p": "二手洗衣机"
+            },
+            {
+                "url": "/static/images/xiyiji18.jpg",
+                "p": "任性付免息"
+            },
+            {
+                "url": "/static/images/xiyiji19.png",
+                "p": "精选好店"
+            }
+        ],
+        "msg8": [{
+                "url": "//image.suning.cn/uimg/asbs/ad/1558668695999_imgApp_tmndir.jpg",
+                "p": "家庭影院"
+            },
+            {
+                "url": "//image5.suning.cn/uimg/asbs/ad/1558669190317_imgApp_tmndir.jpg",
+                "p": "机顶盒 "
+            },
+            {
+                "url": "//image2.suning.cn/uimg/cms/img/156523011797455681.jpg",
+                "p": "回音壁/SoundBar"
+            },
+            {
+                "url": "//image5.suning.cn/uimg/asbs/ad/1558668861174_imgApp_tmndir.jpg",
+                "p": "迷你音响"
+            },
+            {
+                "url": "//image4.suning.cn/uimg/asbs/ad/1558668897867_imgApp_tmndir.jpg",
+                "p": "功放机"
+            },
+            {
+                "url": "//image2.suning.cn/uimg/asbs/ad/1558668946956_imgApp_tmndir.jpg",
+                "p": "广场舞音响"
+            },
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1558668979396_imgApp_tmndir.jpg",
+                "p": "ktv音响"
+            },
+            {
+                "url": "//image4.suning.cn/uimg/asbs/ad/1558669014397_imgApp_tmndir.jpg",
+                "p": "影音播放机"
+            },
+            {
+                "url": "//image1.suning.cn/uimg/asbs/ad/1558669041246_imgApp_tmndir.jpg",
+                "p": "工程音响"
+            },
+            {
+                "url": "//image2.suning.cn/uimg/asbs/ad/1558669073626_imgApp_tmndir.jpg",
+                "p": "AV音响"
+            },
+            {
+                "url": "//image.suning.cn/uimg/asbs/ad/1558669110739_imgApp_tmndir.jpg",
+                "p": "话筒"
+            },
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1558669222667_imgApp_tmndir.jpg",
+                "p": "电视遥控器"
+            },
+            {
+                "url": "//image.suning.cn/uimg/asbs/ad/1558669155455_imgApp_tmndir.jpg",
+                "p": "电视挂架"
+            },
+            {
+                "url": "//image5.suning.cn/uimg/asbs/ad/1555037986478_imgWap_tmndir.jpg",
+                "p": "小天鹅"
+            },
+            {
+                "url": "//image4.suning.cn/uimg/asbs/ad/1558669254683_imgApp_tmndir.jpg",
+                "p": "视频会员卡"
+            }
+        ]
+    },
+    "diannaobangong": {
+        "msg9": [{
+                "url": "//image.suning.cn/uimg/asbs/ad/1493946827440_app_list.jpg",
+                "p": "笔记本"
+            },
+            {
+                "url": "//image5.suning.cn/uimg/asbs/ad/1554794058372_imgApp_tmndir.jpg",
+                "p": "游戏本 "
+            },
+            {
+                "url": "//image1.suning.cn/uimg/asbs/ad/1493946924941_app_list.jpg",
+                "p": "轻薄本"
+            },
+            {
+                "url": "//image1.suning.cn/uimg/asbs/ad/1493946999339_app_list.jpg",
+                "p": "台式机"
+            },
+            {
+                "url": "//image1.suning.cn/uimg/asbs/ad/1493947041765_app_list.jpg",
+                "p": "一体机"
+            },
+            {
+                "url": "//image2.suning.cn/uimg/asbs/ad/1545806560270_app_wap_list.png",
+                "p": "商用台式机"
+            },
+            {
+                "url": "//image.suning.cn/uimg/asbs/ad/1565060621984_imgWap_tmndir.png",
+                "p": "创意设计PC"
+            },
+            {
+                "url": "//image1.suning.cn/uimg/asbs/ad/1526959930017_imgWap_tmndir.png",
+                "p": "组装机"
+            },
+            {
+                "url": "//image.suning.cn/uimg/asbs/ad/1565060569521_imgWap_tmndir.png",
+                "p": "精选好店"
+            }
+        ],
+        "msg10": [{
+                "url": "//image2.suning.cn/uimg/asbs/ad/1561692610907_app_wap_list.jpg",
+                "p": "iPad"
+            },
+
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1561693186814_app_wap_list.jpg",
+                "p": "华为平板 "
+            },
+            {
+                "url": "//image.suning.cn/uimg/asbs/ad/1561693580331_app_wap_list.jpg",
+                "p": "微软"
+            },
+            {
+                "url": "//image.suning.cn/uimg/asbs/ad/1562051728966_app_wap_list.jpg",
+                "p": "小米平板"
+            },
+
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1561693321664_app_wap_list.jpg",
+                "p": "kindle"
+            },
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1563765037764_imgApp_tmndir.png ",
+                "p": "三星平板"
+            }
+        ],
+        "msg11": [{
+                "url": "//image3.suning.cn/uimg/asbs/ad/1560764611956_imgApp_tmndir.png",
+                "p": "以旧换新补贴"
+
+            },
+            {
+                "url": "//image1.suning.cn/uimg/asbs/ad/1563960401227_imgWap_tmndir.jpg",
+                "p": "电脑免息"
+
+            },
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1560764805973_imgApp_tmndir.png",
+                "p": "30天包退"
+
+            }
+        ]
+    },
+    "chuweidadian": {
+        "msg12": [{
+                "url": "//image2.suning.cn/uimg/asbs/ad/1493019127990_pc_list.jpg",
+                "p": "油烟机"
+            },
+            {
+                "url": "//image2.suning.cn/uimg/asbs/ad/1493019104421_pc_list.jpg",
+                "p": "烟灶套餐"
+            },
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1493019147058_pc_list.jpg",
+                "p": "燃气灶"
+            },
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1502197591805_imgApp_tmndir.jpg",
+                "p": "商用电器"
+            },
+            {
+                "url": "//image3.suning.cn/uimg/asbs/ad/1493881777935_app_wap_search.jpg",
+                "p": "集成灶"
+            },
+            {
+                "url": "//image4.suning.cn/uimg/asbs/ad/1564732516563_imgWap_tmndir.jpg",
+                "p": "垃圾处理器"
+            },
+            {
+                "url": "//image2.suning.cn/uimg/asbs/ad/1536910069646_imgApp_tmndir.jpg",
+                "p": "洗碗机"
+            },
+            {
+                "url": "//image5.suning.cn/uimg/asbs/ad/1541417677975_imgApp_tmndir.jpg",
+                "p": "消毒柜"
+            },
+            {
+                "url": "//image5.suning.cn/uimg/asbs/ad/1562748158431_imgApp_tmndir.jpg",
+                "p": "方太"
+            }
+
+
+        ]
+
+    },
+    "bijiben": {
+        "poke": [{
+                "url": "/static/images/bijiben01.jpg",
+                "ip": "性价比机",
+                "il": " 第8代 酷睿",
+                "ul": " 全高清",
+                "ziying": "自营",
+                "P": "【趋势新品】Asus 华硕灵耀TP301新品intel i5高清手提电脑上网商务办公超极本触屏笔记本电脑二合一轻薄便携学生360度翻转大学生12GB 512GB定制款",
+                "num": "4099",
+                "liju": "领券2980-268",
+                "span": "100+条评价",
+                "span2": "好评率100%",
+                "span3": "点个赞电脑专营店",
+                "ig": "biji"
+            },
+            {
+                "url": "/static/images/bijiben02.jpg",
+                "ip": " AMD处理器",
+                "il": "  手环疾速解锁   ",
+                "ul": "  R5-3500U",
+                "ziying": "自营",
+                "P": "（趋势新品）小米（MI）RedmiBook14锐龙版轻薄本搭载（ R5-3500U 8G 256GB）AMD处理器笔记本电脑预装Win10正版 手环疾速解锁 全新小米互传 银色",
+                "num": "3199",
+                "liju": "新品抢",
+                "span": "100+条评价",
+                "span2": "好评率96%",
+                "span3": "小米自营旗舰店",
+                "ig": "biji2"
+            },
+            {
+                "url": "/static/images/bijiben03.jpg",
+                "ip": "性价比机",
+                "il": " 第8代 酷睿",
+                "ul": " 全高清",
+                "ziying": "自营",
+                "P": "华硕(ASUS)灵耀Deluxe14 14英寸微边全面屏超轻薄创意设计笔记本第八代英特尔®酷睿™i5(i5-8265U 8G512GB MX150-2G独显)冰钻银",
+                "num": "3599",
+                "liju": "新品抢",
+                "span": "700+条评价",
+                "span2": "好评率100%",
+                "span3": "华硕自营旗舰店",
+                "ig": "biji3"
+            },
+            {
+                "url": "/static/images/bijiben04.jpg",
+                "ip": " I3-8145U",
+                "il": "  4G内存",
+                "ul": "  256G SSD",
+                "ziying": "自营",
+                "P": "联想(Lenovo)小新青春版 2019年新款 英特尔酷睿i3 14英寸轻薄本笔记本电脑(I3-8145U 4G 256GB+16G傲腾 )追梦银",
+                "num": "2999",
+                "liju": "新品抢",
+                "span": "500+条评价",
+                "span2": "好评率98%",
+                "span3": "联想自营旗舰店",
+                "ig": "biji4"
+            },
+            {
+                "url": "/static/images/bijiben05.jpg",
+                "ip": " 新一代处理器",
+                "il": "高速固态",
+                "ul": "高效散热",
+                "ziying": "自营",
+                "P": "戴尔（DELL）G3 3590-R1545BL 第九代英特尔®酷睿™i5 15.6英寸游戏本笔记本电脑（i5-9300H/8G内存/1TB+128GB/GTX 1650/4G独显）",
+                "num": "5199",
+                "liju": "新品抢",
+                "span": "1000+条评价",
+                "span2": "好评率100%",
+                "span3": "戴尔自营旗舰店",
+                "ig": "biji5"
+            },
+            {
+                "url": "/static/images/bijiben06.jpg",
+                "ip": "15.6英寸",
+                "il": "i5-9300H",
+                "ul": "混合硬盘",
+                "ziying": "自营",
+                "P": "惠普(HP)星系列星14-ce3035TX14英寸轻薄本笔记本电脑(i5-1035G7 8G 512SSD MX250 粉色）",
+                "num": "3599",
+                "liju": "新品抢",
+                "span": "90+条评价",
+                "span2": "好评率98%",
+                "span3": "惠普自营旗舰店",
+                "ig": "biji6"
+            }
+
+
+        ]
+    },
+    "littlebiu": {
+        "poke": [{
+                "url": "/static/images/xixi01.jpg",
+                "ip": " 远程操作",
+                "il": " 256种水位",
+                "ul": "  全程安静洗涤",
+                "ziying": "自营",
+                "P": "西门子 XQG100-WM14U561HW",
+                "num": "4999",
+                "liju": "满1999返89",
+                "span": "3.8万条评价",
+                "span2": "好评率100%",
+                "span3": "西门子家电苏宁自营旗舰店 进店>",
+                "ig": "biji"
+            },
+            {
+                "url": "/static/images/xixi02.jpg",
+                "ip": " 自编程",
+                "il": " 3D喷淋",
+                "ul": "  立体除菌",
+                "ziying": "自营",
+
+                "P": "小天鹅 TG100V80WDG5",
+                "num": "2399",
+                "liju": "新品抢",
+                "span": "6.1万条评价",
+                "span2": "好评率96%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji3"
+            },
+            {
+                "url": "/static/images/xixi03.jpg",
+                "ip": " 洗涤自编程",
+                "il": " 24H预约",
+                "ul": "免清洗科技",
+                "ziying": "自营",
+
+                "P": "小天鹅 TB80V20",
+                "num": "3599",
+                "liju": "领券800-50",
+                "span": "10万+条评价",
+                "span2": "好评率100%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji4"
+            },
+            {
+                "url": "/static/images/xixi04.jpg",
+                "ip": "巴氏除菌洗",
+                "il": "静音变频",
+                "ul": "抗菌门封圈",
+                "ziying": "自营",
+
+                "P": "美的 MG100V31DG5",
+                "num": "2099",
+                "liju": "预定",
+                "span": "999+条评价",
+                "span2": "好评率98%",
+                "span3": "美的自营旗舰店 进店>",
+                "ig": "biji5"
+            },
+            {
+                "url": "/static/images/xixi05.jpg",
+                "ip": " 直驱变频科技",
+                "il": " 一级能效省电",
+                "ul": "  澳洲羊毛洗",
+                "ziying": "自营",
+
+                "P": "小天鹅 TB80VN02D",
+                "num": "1349",
+                "liju": "预定",
+                "span": "1.6万条评价",
+                "span2": "好评率100%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji6"
+            },
+            {
+                "url": "/static/images/xixi06.jpg",
+                "ip": "大容量随心洗",
+                "il": "超安静不扰眠",
+                "ul": "立体除菌防护",
+                "ziying": "自营",
+
+                "P": "小天鹅 TG100VN02DG5",
+                "num": "2349",
+                "liju": "预定",
+                "span": "4.5万条评价",
+                "span2": "好评率98%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji"
+            },
+            {
+                "url": "/static/images/xixi01.jpg",
+                "ip": " 远程操作",
+                "il": " 256种水位",
+                "ul": "  全程安静洗涤",
+                "ziying": "1111",
+                "P": "西门子 XQG100-WM14U561HW",
+                "num": "4999",
+                "liju": "满1999返89",
+                "span": "3.8万条评价",
+                "span2": "好评率100%",
+                "span3": "西门子家电自营旗舰店 进店>",
+                "ig": "biji2"
+            },
+            {
+                "url": "/static/images/xixi02.jpg",
+                "ip": " 自编程",
+                "il": " 3D喷淋",
+                "ul": "  立体除菌",
+                "ziying": "自营",
+
+                "P": "小天鹅 TG100V80WDG5",
+                "num": "2399",
+                "liju": "新品抢",
+                "span": "6.1万条评价",
+                "span2": "好评率96%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji3"
+            },
+            {
+                "url": "/static/images/xixi03.jpg",
+                "ip": " 洗涤自编程",
+                "il": " 24H预约",
+                "ul": "免清洗科技",
+                "ziying": "自营",
+
+                "P": "小天鹅 TB80V20",
+                "num": "3599",
+                "liju": "领券800-50",
+                "span": "10万+条评价",
+                "span2": "好评率100%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji"
+            },
+            {
+                "url": "/static/images/xixi04.jpg",
+                "ip": "巴氏除菌洗",
+                "il": "静音变频",
+                "ul": "抗菌门封圈",
+                "ziying": "自营",
+
+                "P": "美的 MG100V31DG5",
+                "num": "2099",
+                "liju": "预定",
+                "span": "999+条评价",
+                "span2": "好评率98%",
+                "span3": "美的自营旗舰店 进店>",
+                "ig": "biji4"
+            },
+            {
+                "url": "/static/images/xixi05.jpg",
+                "ip": " 直驱变频科技",
+                "il": " 一级能效省电",
+                "ul": "  澳洲羊毛洗",
+                "ziying": "自营",
+
+                "P": "小天鹅 TB80VN02D",
+                "num": "1349",
+                "liju": "预定",
+                "span": "1.6万条评价",
+                "span2": "好评率100%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji5"
+            },
+            {
+                "url": "/static/images/xixi06.jpg",
+                "ip": "大容量随心洗",
+                "il": "超安静不扰眠",
+                "ul": "立体除菌防护",
+                "ziying": "自营",
+
+                "P": "小天鹅 TG100VN02DG5",
+                "num": "2349",
+                "liju": "预定",
+                "span": "4.5万条评价",
+                "span2": "好评率98%",
+                "span3": "小天鹅自营旗舰店 进店>",
+                "ig": "biji6"
+            }
+
+
+        ]
+    },
+    "machine": {
+        "poke": [{
+                "url": "/static/images/haha01.jpg",
+                "ip": "新品首发",
+                "il": "内置小爱同学",
+                "ul": "2GB+8GB",
+                "ziying": "自营",
+                "P": "小米（MI）电视4C 65英寸 4K超高清HDR 蓝牙语音遥控 人工智能语音 液晶平板电视 L65M5-4C",
+                "num": "2899",
+                "liju": "抢",
+                "span": "3.8万条评价",
+                "span2": "好评率100%",
+                "span3": "小米自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha02.jpg",
+                "ip": "HDR显示",
+                "il": "立体声扬声器",
+                "ul": "不足1cm边框",
+                "ziying": "自营",
+
+                "P": "小米（MI）电视 4C 55英寸 4K超高清 HDR 人工智能网络液晶平板电视 2+8GB 超窄边 L55M5-AZ",
+                "num": "1699",
+                "liju": "抢",
+                "span": "4.5万条评价",
+                "span2": "好评率99%",
+                "span3": "小米自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha03.jpg",
+                "ip": "卧室液晶平板",
+                "il": " HDR画质技术",
+                "ul": " 一键护眼",
+                "ziying": "自营",
+
+                "P": "创维(SKYWORTH)43S500F 43英寸 全高清智能液晶平板液晶电视 内置WiFi",
+                "num": "1399",
+                "liju": "新品",
+                "span": "800+条评价",
+                "span2": "好评率99%",
+                "span3": "创维电视自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha04.jpg",
+                "ip": " 全面屏视野",
+                "il": " 网络智能",
+                "ul": " 窄边高清",
+                "ziying": "自营",
+                "P": "长虹(CHANGHONG)55D4P 55英寸全面智慧屏4K超高清电视HDR轻薄平板LED液晶（黑色）",
+                "num": "1799",
+                "liju": "新品",
+                "span": "800+条评价",
+                "span2": "好评率98%",
+                "span3": "长虹电视自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha05.jpg",
+                "ip": " 以旧换新",
+                "il": " 智能操控",
+                "ul": " VIDAA AI",
+                "ziying": "自营",
+
+                "P": "海信(Hisense)HZ43E35A 43英寸 全高清 AI智能 WIFI网络平板液晶电视机 丰富影视教育资源",
+                "num": "1299",
+                "liju": "赠品",
+                "span": "999+条评价",
+                "span2": "好评率97%",
+                "span3": "海信电视自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha06.jpg",
+                "ip": " 四核处理器",
+                "il": " 1GB+4GB",
+                "ul": " 人工智能系统",
+                "ziying": "自营",
+
+                "P": "小米（MI）电视 4A 32英寸 高清人工智能液晶屏网络平板电视机 1+4GB内存 L32M5-AZ",
+                "num": "699",
+                "liju": "大聚惠",
+                "span": "9.5万条评价",
+                "span2": "好评率98%",
+                "span3": "小米电视自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha01.jpg",
+                "ip": "新品首发",
+                "il": "内置小爱同学",
+                "ul": "2GB+8GB",
+                "ziying": "自营",
+                "P": "小米（MI）电视4C 65英寸 4K超高清HDR 蓝牙语音遥控 人工智能语音 液晶平板电视 L65M5-4C",
+                "num": "2899",
+                "liju": "抢",
+                "span": "3.8万条评价",
+                "span2": "好评率100%",
+                "span3": "小米自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha02.jpg",
+                "ip": "HDR显示",
+                "il": "立体声扬声器",
+                "ul": "不足1cm边框",
+                "ziying": "自营",
+
+                "P": "小米（MI）电视 4C 55英寸 4K超高清 HDR 人工智能网络液晶平板电视 2+8GB 超窄边 L55M5-AZ",
+                "num": "1699",
+                "liju": "抢",
+                "span": "4.5万条评价",
+                "span2": "好评率99%",
+                "span3": "小米自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha03.jpg",
+                "ip": "卧室液晶平板",
+                "il": " HDR画质技术",
+                "ul": " 一键护眼",
+                "ziying": "自营",
+
+                "P": "创维(SKYWORTH)43S500F 43英寸 全高清智能液晶平板液晶电视 内置WiFi",
+                "num": "1399",
+                "liju": "新品",
+                "span": "800+条评价",
+                "span2": "好评率99%",
+                "span3": "创维电视自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha04.jpg",
+                "ip": " 全面屏视野",
+                "il": " 网络智能",
+                "ul": " 窄边高清",
+                "ziying": "自营",
+                "P": "长虹(CHANGHONG)55D4P 55英寸全面智慧屏4K超高清电视HDR轻薄平板LED液晶（黑色）",
+                "num": "1799",
+                "liju": "新品",
+                "span": "800+条评价",
+                "span2": "好评率98%",
+                "span3": "长虹电视自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha05.jpg",
+                "ip": " 以旧换新",
+                "il": " 智能操控",
+                "ul": " VIDAA AI",
+                "ziying": "自营",
+
+                "P": "海信(Hisense)HZ43E35A 43英寸 全高清 AI智能 WIFI网络平板液晶电视机 丰富影视教育资源",
+                "num": "1299",
+                "liju": "赠品",
+                "span": "999+条评价",
+                "span2": "好评率97%",
+                "span3": "海信电视自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/haha06.jpg",
+                "ip": " 四核处理器",
+                "il": " 1GB+4GB",
+                "ul": " 人工智能系统",
+                "ziying": "自营",
+
+                "P": "小米（MI）电视 4A 32英寸 高清人工智能液晶屏网络平板电视机 1+4GB内存 L32M5-AZ",
+                "num": "699",
+                "liju": "大聚惠",
+                "span": "9.5万条评价",
+                "span2": "好评率98%",
+                "span3": "小米电视自营旗舰店 进店>"
+            }
+
+        ]
+    },
+    "phone": {
+        "poke": [{
+                "url": "/static/images/phone01.jpg",
+                "ip": "蔚蓝屏幕",
+                "il": "升降摄像头",
+                "ul": "全面屏",
+                "ziying": "自营",
+                "P": "华为 荣耀（honor）9X 4GB+64GB 冰岛白 移动联通电信4G全网通 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏手机",
+                "num": "1299",
+                "liju": "大聚惠",
+                "span": "300条评价",
+                "span2": "好评率99%",
+                "span3": "华为 荣耀自营旗舰店 进店>",
+                "ig": "phone"
+            },
+            {
+                "url": "/static/images/phone02.jpg",
+                "ip": " 暗夜绿色",
+                "il": " 双卡双待",
+                "ul": " 全网通",
+                "ziying": "自营",
+                "P": "Apple iPhone 11 Pro Max 256G",
+                "num": "10899",
+                "liju": "大聚惠",
+                "span": "2900+条评价",
+                "span2": "好评率99%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone2"
+            },
+            {
+                "url": "/static/images/phone03.jpg",
+                "ip": " 麒麟990",
+                "il": " 超级快充",
+                "ul": " 徕卡摄像",
+                "ziying": "自营",
+                "P": "华为 Mate 30 5G",
+                "num": "5499",
+                "liju": "新品 枪",
+                "span": "100+条评价",
+                "span2": "好评率99%",
+                "span3": "华为自营旗舰店 进店>",
+                "ig": "phone3"
+            },
+            {
+                "url": "/static/images/phone04.jpg",
+                "ip": "双卡双待",
+                "il": "面容ID",
+                "ul": " A12仿生",
+                "ziying": "自营",
+                "P": "Apple iPhone XR   ",
+                "num": "4999",
+                "liju": "大聚惠 满4990-141",
+                "span": "48万+条评价",
+                "span2": "好评率97%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone"
+            },
+            {
+                "url": "/static/images/phone05.jpg",
+                "ip": " 白色",
+                "il": " 双卡双待",
+                "ul": " 全网通",
+                "ziying": "自营",
+                "P": "Apple iPhone 11 128G",
+                "num": "5999",
+                "liju": "大聚惠",
+                "span": "9900+条评价",
+                "span2": "好评率98%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone2"
+            },
+            {
+                "url": "/static/images/phone06.jpg",
+                "ip": "  A11处理器",
+                "il": "  全面双玻璃 ",
+                "ul": "  后置双摄",
+                "ziying": "自营",
+                "P": "Apple iPhone 8 Plus",
+                "num": "4399",
+                "liju": "大聚惠",
+                "span": "62万条评价",
+                "span2": "好评率99%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone3"
+            },
+            {
+                "url": "/static/images/phone07.jpg",
+                "ip": " 骁龙730",
+                "il": " 索尼4800万",
+                "ul": " 多功能NFC ",
+                "ziying": "自营",
+
+                "P": "小米 (MI) Redmi K20Pro尊享版 8GB+512GB 火焰红 骁龙855plus超大内存4800万三摄 全面屏弹出拍照游戏双卡双待移动联通电信全网通4G手机",
+                "num": "1599",
+                "liju": "大聚惠",
+                "span": "6300条评价",
+                "span2": "好评率98%",
+                "span3": "小米自营旗舰店 进店>",
+                "ig": "phone"
+            },
+            {
+                "url": "/static/images/phone01.jpg",
+                "ip": "蔚蓝屏幕",
+                "il": "升降摄像头",
+                "ul": "全面屏",
+                "ziying": "自营",
+                "P": "华为 荣耀（honor）9X 4GB+64GB 冰岛白 移动联通电信4G全网通 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏手机",
+                "num": "1299",
+                "liju": "大聚惠",
+                "span": "300条评价",
+                "span2": "好评率99%",
+                "span3": "华为 荣耀自营旗舰店 进店>",
+                "ig": "phone2"
+            },
+            {
+                "url": "/static/images/phone02.jpg",
+                "ip": " 暗夜绿色",
+                "il": " 双卡双待",
+                "ul": " 全网通",
+                "ziying": "自营",
+                "P": "Apple iPhone 11 Pro Max 256G",
+                "num": "10899",
+                "liju": "大聚惠",
+                "span": "2900+条评价",
+                "span2": "好评率99%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone3"
+            },
+            {
+                "url": "/static/images/phone03.jpg",
+                "ip": " 麒麟990",
+                "il": " 超级快充",
+                "ul": " 徕卡摄像",
+                "ziying": "自营",
+                "P": "华为 Mate 30 5G",
+                "num": "5499",
+                "liju": "新品 枪",
+                "span": "100+条评价",
+                "span2": "好评率99%",
+                "span3": "华为自营旗舰店 进店>",
+                "ig": "phone"
+            },
+            {
+                "url": "/static/images/phone04.jpg",
+                "ip": "双卡双待",
+                "il": "面容ID",
+                "ul": " A12仿生",
+                "ziying": "自营",
+                "P": "Apple iPhone XR   ",
+                "num": "4999",
+                "liju": "大聚惠 满4990-141",
+                "span": "48万+条评价",
+                "span2": "好评率97%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone2"
+            },
+            {
+                "url": "/static/images/phone05.jpg",
+                "ip": " 白色",
+                "il": " 双卡双待",
+                "ul": " 全网通",
+                "ziying": "自营",
+                "P": "Apple iPhone 11 128G",
+                "num": "5999",
+                "liju": "大聚惠",
+                "span": "9900+条评价",
+                "span2": "好评率98%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone3"
+            },
+            {
+                "url": "/static/images/phone06.jpg",
+                "ip": "  A11处理器",
+                "il": "  全面双玻璃 ",
+                "ul": "  后置双摄",
+                "ziying": "自营",
+                "P": "Apple iPhone 8 Plus",
+                "num": "4399",
+                "liju": "大聚惠",
+                "span": "62万条评价",
+                "span2": "好评率99%",
+                "span3": "Apple产品自营旗舰店 进店>",
+                "ig": "phone2"
+            },
+            {
+                "url": "/static/images/phone07.jpg",
+                "ip": " 骁龙730",
+                "il": " 索尼4800万",
+                "ul": " 多功能NFC ",
+                "ziying": "自营",
+                "P": "小米 (MI) Redmi K20Pro尊享版 8GB+512GB 火焰红 骁龙855plus超大内存4800万三摄 全面屏弹出拍照游戏双卡双待移动联通电信全网通4G手机",
+                "num": "1599",
+                "liju": "大聚惠",
+                "span": "6300条评价",
+                "span2": "好评率98%",
+                "span3": "小米自营旗舰店 进店>",
+                "ig": "phone3"
+            }
+        ]
+    },
+    "xiaobiu": {
+        "poke": [{
+                "url": "/static/images/xiaobiu01.jpg",
+                "ip": " 红点设计奖",
+                "il": " 彩屏交互",
+                "ul": " 智能对话",
+                "ziying": "自营",
+                "P": "极物 时空胶囊 小Biu智能音箱闹钟SA-P3SH 彩屏交互 智能对话 百科大全 儿童读物 家居控制 语音购物",
+                "num": "209",
+                "liju": "新品",
+                "span": "3600条评价",
+                "span2": "好评率99%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu02.jpg",
+                "ip": " 500G大通量",
+                "il": "APP监控",
+                "ul": " 反渗透无桶",
+                "ziying": "自营",
+
+                "P": "极物小Biu净水器R500-W1家用直饮厨下式厨房净水机 500加仑大通量 即滤即饮 无罐反渗透 纯水机 APP监控",
+                "num": "2988",
+                "liju": "新品",
+                "span": "2.3万条评价",
+                "span2": "好评率99%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu03.jpg",
+                "ip": "五年质保",
+                "il": "智控无线开关",
+                "ul": "五级研磨",
+                "ziying": "自营",
+
+                "P": "苏宁极物小Biu家用厨房食物垃圾处理器 厨余粉碎机JW-CD1无线开关 660W强劲动力 五级精细研磨 四重静音防震",
+                "num": "1999",
+                "liju": "新品",
+                "span": "1200+条评价",
+                "span2": "好评率99%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu04.jpg",
+                "ip": "国AA级照度",
+                "il": " 无可视频闪",
+                "ul": " 无蓝光危害",
+                "ziying": "自营",
+
+                "P": "极物小Biu台灯智能LED护眼台灯 国AA级照度 智能学生儿童学习台灯写字灯阅读卧室床头灯",
+                "num": "249",
+                "liju": "预定",
+                "span": "100+条评价",
+                "span2": "好评率97%",
+                "span3": "自营 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu05.jpg",
+                "ip": "烘干消毒",
+                "il": " 航空铝材",
+                "ul": " 电机质保20年",
+                "ziying": "自营",
+
+                "P": "极物小biu智能晾衣机 豪华版 晾衣架 宝石灰 智能语音电动烘干架 升降晾衣机 铝合金智能伸缩阳台自动照明消毒晾衣杆   ",
+                "num": "2999",
+                "liju": "大聚惠",
+                "span": "100+条评价",
+                "span2": "好评率98%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu06.jpg",
+                "ip": " 468L大容量",
+                "il": " 一级变频",
+                "ul": " 风冷无霜",
+                "ziying": "自营",
+                "P": "极物小Biu冰箱 JSE4628LP 468升对开门冰箱 变频一级能效 风冷无霜 家用电冰箱",
+                "num": "2899",
+                "liju": "预定",
+                "span": "2.3万条评价",
+                "span2": "好评率99%",
+                "span3": "小米自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu07.jpg",
+                "ip": " 不惧小黑盒",
+                "il": " C级锁芯",
+                "ul": " 远程临时密码    ",
+                "ziying": "自营",
+
+                "P": "【全国免费送装】极物小Biu智能门锁 指纹密码蓝牙钥匙锁电子锁 智能锁 金融级防护 防尾随",
+                "num": "1199",
+                "liju": "大聚惠",
+                "span": "4800万条评价",
+                "span2": "好评率98%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu01.jpg",
+                "ip": " 红点设计奖",
+                "il": " 彩屏交互",
+                "ul": " 智能对话",
+                "ziying": "自营",
+                "P": "极物 时空胶囊 小Biu智能音箱闹钟SA-P3SH 彩屏交互 智能对话 百科大全 儿童读物 家居控制 语音购物",
+                "num": "209",
+                "liju": "新品",
+                "span": "3600条评价",
+                "span2": "好评率99%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu02.jpg",
+                "ip": " 500G大通量",
+                "il": "APP监控",
+                "ul": " 反渗透无桶",
+                "ziying": "自营",
+
+                "P": "极物小Biu净水器R500-W1家用直饮厨下式厨房净水机 500加仑大通量 即滤即饮 无罐反渗透 纯水机 APP监控",
+                "num": "2988",
+                "liju": "新品",
+                "span": "2.3万条评价",
+                "span2": "好评率99%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu03.jpg",
+                "ip": "五年质保",
+                "il": "智控无线开关",
+                "ul": "五级研磨",
+                "ziying": "自营",
+
+                "P": "苏宁极物小Biu家用厨房食物垃圾处理器 厨余粉碎机JW-CD1无线开关 660W强劲动力 五级精细研磨 四重静音防震",
+                "num": "1999",
+                "liju": "新品",
+                "span": "1200+条评价",
+                "span2": "好评率99%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu04.jpg",
+                "ip": "国AA级照度",
+                "il": " 无可视频闪",
+                "ul": " 无蓝光危害",
+                "ziying": "自营",
+
+                "P": "极物小Biu台灯智能LED护眼台灯 国AA级照度 智能学生儿童学习台灯写字灯阅读卧室床头灯",
+                "num": "249",
+                "liju": "预定",
+                "span": "100+条评价",
+                "span2": "好评率97%",
+                "span3": "自营 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu05.jpg",
+                "ip": "烘干消毒",
+                "il": " 航空铝材",
+                "ul": " 电机质保20年",
+                "ziying": "自营",
+
+                "P": "极物小biu智能晾衣机 豪华版 晾衣架 宝石灰 智能语音电动烘干架 升降晾衣机 铝合金智能伸缩阳台自动照明消毒晾衣杆   ",
+                "num": "2999",
+                "liju": "大聚惠",
+                "span": "100+条评价",
+                "span2": "好评率98%",
+                "span3": "小Biu自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu06.jpg",
+                "ip": " 468L大容量",
+                "il": " 一级变频",
+                "ul": " 风冷无霜",
+                "ziying": "自营",
+                "P": "极物小Biu冰箱 JSE4628LP 468升对开门冰箱 变频一级能效 风冷无霜 家用电冰箱",
+                "num": "2899",
+                "liju": "预定",
+                "span": "2.3万条评价",
+                "span2": "好评率99%",
+                "span3": "小米自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/xiaobiu07.jpg",
+                "ip": " 不惧小黑盒",
+                "il": " C级锁芯",
+                "ul": " 远程临时密码    ",
+                "ziying": "自营",
+
+                "P": "【全国免费送装】极物小Biu智能门锁 指纹密码蓝牙钥匙锁电子锁 智能锁 金融级防护 防尾随",
+                "num": "1199",
+                "liju": "大聚惠",
+                "span": "4800万条评价",
+                "span2": "好评率98%",
+                "span3": "小Biu自营旗舰店 进店>"
+            }
+        ]
+    },
+    "reshui": {
+        "poke": [{
+                "url": "/static/images/reshui01.jpg",
+                "ip": " 商用级换热器",
+                "il": " 免水量伺服",
+                "ul": " 高清触控大屏",
+                "ziying": "自营",
+                "P": "史密斯 JSQ26-VN",
+                "num": "3299",
+                "liju": "",
+                "span": "1.4万条评价",
+                "span2": "好评率99%",
+                "span3": "AO史密斯自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui02.jpg",
+                "ip": "2100W速热",
+                "il": " 4倍热水",
+                "ul": " 整机8年包修",
+                "ziying": "自营",
+
+                "P": "美的 F6021-T1(Y)",
+                "num": "999",
+                "liju": "大聚惠",
+                "span": "8.3万条评价",
+                "span2": "好评率99%",
+                "span3": "美的热水器自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui03.jpg",
+                "ip": " 二级能效",
+                "il": " 整机6年包修",
+                "ul": " 防电墙",
+                "ziying": "自营",
+
+                "P": "海尔 EC5U",
+                "num": "399",
+                "liju": "爆品",
+                "span": "2.5万条评价",
+                "span2": "好评率99%",
+                "span3": "海尔自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui04.jpg",
+                "ip": " 深度内胆清洁",
+                "il": "  5倍加热",
+                "ul": "  金圭特护系统",
+                "ziying": "自营",
+
+                "P": "史密斯 E60VN1-C",
+                "num": "2558",
+                "liju": "新品",
+                "span": "1.7万条评价",
+                "span2": "好评率97%",
+                "span3": "AO史密斯自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui05.jpg",
+                "ip": "普通恒温",
+                "il": " 天然气",
+                "ul": " 能效等级",
+                "ziying": "自营",
+
+                "P": "樱花(SAKURA)13升燃气热水器JSQ25-L032（升级款）家用三档变升环保节能省气恒温热水器(天然气)",
+                "num": "1199",
+                "liju": "大聚惠",
+                "span": "1100+条评价",
+                "span2": "好评率98%",
+                "span3": "自营店 进店>"
+            },
+            {
+                "url": "/static/images/reshui06.jpg",
+                "ip": "  全新升级",
+                "il": "  仿生静音",
+                "ul": "  智能恒温",
+                "ziying": "自营",
+                "P": "万家乐 JSQ24-12W2",
+                "num": "898",
+                "liju": "大聚惠",
+                "span": "3.3万条评价",
+                "span2": "好评率99%",
+                "span3": "万家乐自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui07.jpg",
+                "ip": "  2100W速热",
+                "il": "  加长防电墙",
+                "ul": "  整机8年质保",
+                "ziying": "自营",
+
+                "P": "美的 F50-21S1",
+                "num": "699",
+                "liju": "大聚惠",
+                "span": "11万条评价",
+                "span2": "好评率98%",
+                "span3": "美的热水器自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui01.jpg",
+                "ip": " 商用级换热器",
+                "il": " 免水量伺服",
+                "ul": " 高清触控大屏",
+                "ziying": "自营",
+                "P": "史密斯 JSQ26-VN",
+                "num": "3299",
+                "liju": "",
+                "span": "1.4万条评价",
+                "span2": "好评率99%",
+                "span3": "AO史密斯自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui02.jpg",
+                "ip": "2100W速热",
+                "il": " 4倍热水",
+                "ul": " 整机8年包修",
+                "ziying": "自营",
+
+                "P": "美的 F6021-T1(Y)",
+                "num": "999",
+                "liju": "大聚惠",
+                "span": "8.3万条评价",
+                "span2": "好评率99%",
+                "span3": "美的热水器自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui03.jpg",
+                "ip": " 二级能效",
+                "il": " 整机6年包修",
+                "ul": " 防电墙",
+                "ziying": "自营",
+
+                "P": "海尔 EC5U",
+                "num": "399",
+                "liju": "爆品",
+                "span": "2.5万条评价",
+                "span2": "好评率99%",
+                "span3": "海尔自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui04.jpg",
+                "ip": " 深度内胆清洁",
+                "il": "  5倍加热",
+                "ul": "  金圭特护系统",
+                "ziying": "自营",
+
+                "P": "史密斯 E60VN1-C",
+                "num": "2558",
+                "liju": "新品",
+                "span": "1.7万条评价",
+                "span2": "好评率97%",
+                "span3": "AO史密斯自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui05.jpg",
+                "ip": "普通恒温",
+                "il": " 天然气",
+                "ul": " 能效等级",
+                "ziying": "自营",
+
+                "P": "樱花(SAKURA)13升燃气热水器JSQ25-L032（升级款）家用三档变升环保节能省气恒温热水器(天然气)",
+                "num": "1199",
+                "liju": "大聚惠",
+                "span": "1100+条评价",
+                "span2": "好评率98%",
+                "span3": "自营店 进店>"
+            },
+            {
+                "url": "/static/images/reshui06.jpg",
+                "ip": "  全新升级",
+                "il": "  仿生静音",
+                "ul": "  智能恒温",
+                "ziying": "自营",
+                "P": "万家乐 JSQ24-12W2",
+                "num": "898",
+                "liju": "大聚惠",
+                "span": "3.3万条评价",
+                "span2": "好评率99%",
+                "span3": "万家乐自营旗舰店 进店>"
+            },
+            {
+                "url": "/static/images/reshui07.jpg",
+                "ip": "  2100W速热",
+                "il": "  加长防电墙",
+                "ul": "  整机8年质保",
+                "ziying": "自营",
+
+                "P": "美的 F50-21S1",
+                "num": "699",
+                "liju": "大聚惠",
+                "span": "11万条评价",
+                "span2": "好评率98%",
+                "span3": "美的热水器自营旗舰店 进店>"
+            }
+        ]
+    }
+}
